@@ -21,14 +21,14 @@ section .color {
 }
 
 section .color:nth-child(1) {
-    background-color: #db2284b1;
+    background-color: #a7093b95;
     height: 600px;
     width: 600px;
     top: -350px
 }
 
 section .color:nth-child(2) {
-    background-color: rgba(232, 198, 125, 0.979);
+    background-color: rgba(77, 61, 27, 0.979);
     height: 500px;
     width: 500px;
     bottom: -150px;
