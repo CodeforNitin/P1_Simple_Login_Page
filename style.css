@@ -21,16 +21,16 @@ section .color {
 }
 
 section .color:nth-child(1) {
-    background-color: #a7093b95;
+    background-color: #01eb47;
     height: 600px;
     width: 600px;
     top: -350px
 }
 
 section .color:nth-child(2) {
-    background-color: rgba(77, 61, 27, 0.979);
+    background-color: rgba(8, 232, 135, 0.977);
     height: 500px;
-    width: 500px;
+    width: 900px;
     bottom: -150px;
     left: 100px
 }
@@ -44,7 +44,7 @@ section .color:nth-child(2) {
     position: relative;
     width: 400px;
     min-height: 400px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(113, 104, 104, 0.1);
     border-radius: 10px;
     display: flex;
     justify-content: center;
